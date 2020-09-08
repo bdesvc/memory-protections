@@ -6,3 +6,9 @@ with advanced kernel and anti dumping techniques
 You simply initialize the struct and call it as so
 
 ![api](https://i.imgur.com/xjnwnPv.png)
+
+# Features
+
+We have shared kernel data detection to check for kernel communications with `Shared Memory`
+And advanced antidebug that increases size of the memory region and erases PE headers
+
