@@ -27,4 +27,5 @@ qTox: `DD2E5D055D0240660E53A24255DDF1DD8248662CBE54F461C3A30941939E3D03B4CE44F0A
 
 # Credits
 @Akex64 for creating the whole library
+
 /al-khasar/ some of protection methods
